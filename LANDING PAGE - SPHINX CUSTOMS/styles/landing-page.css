@@ -1,0 +1,1196 @@
+
+html {
+	font-size:49.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.landing-page-N7e {
+  box-sizing: border-box;
+  padding-bottom: 6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ec2b39;
+}
+.landing-page-N7e .auto-group-nmh6-i52 {
+  margin-bottom: rem;
+  width: 214.5178rem;
+  height: 277.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .header-nDJ {
+  width: 192rem;
+  height: 102rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .header-nDJ .group-1-WQC {
+  width: 246.4rem;
+  height: 164.3443rem;
+  position: relative;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .header-nDJ .group-1-WQC .mercedes-w-3-qSU {
+  width: 119.05rem;
+  height: 103.45rem;
+  position: absolute;
+  left: 23.8rem;
+  top: ;
+  object-fit: cover;
+  vertical-align: top;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ec2b39;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .header-nDJ .group-1-WQC .rectangle-2-gT6 {
+  width: 73.1388rem;
+  height: 163.2869rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: -3.9rem 0.4rem 4.11rem rgba(0, 0, 0, 0.25);
+  background-color: #000000;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .header-nDJ .group-1-WQC .customize-your-car-and-make-it-look-vintage-the-egyptian-way-a2g {
+  width: 39.6rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 13.8136rem;
+  top:40rem;
+  text-align: center;
+  font-size: 0rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+}
+.landing-page-N7e .auto-group-nmh6-i52 .header-nDJ .group-1-WQC .navbar-Q1i {
+  box-sizing: border-box;
+  padding: 1.6rem 10rem 1.1rem 10rem;
+  width: 192rem;
+  height: 9.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 -0.1rem 3rem rgba(0, 0, 0, 0.25);
+}
+.landing-page-N7e .auto-group-nmh6-i52 .header-nDJ .group-1-WQC .navbar-Q1i .sphinx-customs-5tY {
+  margin: 12rem;
+  font-size: 5.6rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .header-nDJ .group-1-WQC .navbar-Q1i .navigation-jbi {
+  margin: 1.9rem 32.25rem 2.1rem 10rem;
+  height: calc(100% - 4rem);
+  display: flex;
+  column-gap: 3.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .header-nDJ .group-1-WQC .navbar-Q1i .navigation-jbi .home-que {
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .header-nDJ .group-1-WQC .navbar-Q1i .navigation-jbi .about-acL {
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .header-nDJ .group-1-WQC .navbar-Q1i .navigation-jbi .benefits-WF6 {
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .header-nDJ .group-1-WQC .navbar-Q1i .navigation-jbi .designs-dac {
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .header-nDJ .group-1-WQC .navbar-Q1i .button-x76 {
+  margin: 1.1rem 0rem 1.6rem 0rem;
+  width: 19.3rem;
+  height: calc(100% - 2.7rem);
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .header-nDJ .group-1-WQC .text-and-button-mKS {
+  width: 64rem;
+  height: 62rem;
+  position: absolute;
+  left: 128rem;
+  top: 20.4rem;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .header-nDJ .group-1-WQC .text-and-button-mKS .customize-your-car-and-make-it-look-vintage-the-egyptian-way-tur {
+  width: 64rem;
+  height: 32.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: right;
+  font-size: 6.5rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+}
+.landing-page-N7e .auto-group-nmh6-i52 .header-nDJ .group-1-WQC .text-and-button-mKS .text-and-button-x92 {
+  width: 31.1rem;
+  height: 30.8rem;
+  position: absolute;
+  left: 32.9rem;
+  top: 31.2rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .header-nDJ .group-1-WQC .text-and-button-mKS .text-and-button-x92 .the-most-beloved-designs-of-the-moment-for-those-who-want-to-ride-in-style-without-spending-too-much-GvQ {
+  margin-bottom: 1.4rem;
+  max-width: 31.1rem;
+  text-align: right;
+  font-size: 3.2rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .header-nDJ .group-1-WQC .text-and-button-mKS .text-and-button-x92 .button-k4t {
+  margin-left: 12.9rem;
+  box-sizing: border-box;
+  padding: 1.2rem 3.5rem 0.9rem 2.8rem;
+  width: calc(100% - 12.9rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.2rem #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .header-nDJ .group-1-WQC .text-and-button-mKS .text-and-button-x92 .button-k4t .discover-TV6 {
+  margin-right: 1.2rem;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .header-nDJ .group-1-WQC .text-and-button-mKS .text-and-button-x92 .button-k4t .akar-icons-arrow-up-right-yyE {
+  margin-bottom: 0.3rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .about-us-Ffr {
+  width: 205.2178rem;
+  height: 116.7284rem;
+  position: absolute;
+  left: 0;
+  top: 78.3216rem;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .about-us-Ffr .about-us-NkU {
+  width: 59.2rem;
+  height: 16.4rem;
+  position: absolute;
+  left: 66.4rem;
+  top: 29.6784rem;
+  text-align: center;
+  font-size: 13rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .about-us-Ffr .about-us-3Lp {
+  width: 68.3rem;
+  height: 18.9rem;
+  position: absolute;
+  left: 120.4rem;
+  top: 83.6784rem;
+  text-align: center;
+  font-size: 15rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .about-us-Ffr .rectangle-2-7Lg {
+  width: 0;
+  height: 0;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .about-us-Ffr .information-eLc {
+  width: 172rem;
+  height: 39.1rem;
+  position: absolute;
+  left: 10rem;
+  top: 48.7784rem;
+  display: flex;
+  align-items: flex-end;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .about-us-Ffr .information-eLc .this-app-will-contain-a-showroom-with-many-car-brands-available-in-the-future-mercedes-being-the-only-one-available-at-launch-and-models-available-with-many-vintage-designs-for-whatever-car-you-have-try-as-many-designs-as-you-want-and-pick-your-favorite-once-you-have-tried-it-on-your-car-and-apply-it-to-your-actual-car-when-you-visit-us-ZTa {
+  margin: 0rem 27rem 0.35rem 5rem;
+  max-width: 78.1rem;
+  font-size: 3.2rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .about-us-Ffr .information-eLc .o-2-uA4 {
+  width: 66.9rem;
+  height: 39.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .benefits-R8Q {
+  width: 205rem;
+  height: 102.6rem;
+  position: absolute;
+  left: 0;
+  top: 174.7rem;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-end;
+  background-color: #000000;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .benefits-R8Q .auto-group-wdb2-MGx {
+  margin: 0rem 2.615rem 15.672rem -30rem;
+  width: 58.935rem;
+  height: 116.7284rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+
+.landing-page-N7e .auto-group-nmh6-i52 .benefits-R8Q .auto-group-wdb2-MGx .rectangle-2-QW8 {
+  width: 58.935rem;
+  height: 116.7284rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: -3.9rem 0.4rem 4.11rem rgba(0, 0, 0, 0.25);
+  background-color: #000000;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .benefits-R8Q .auto-group-a8hz-iWp {
+  margin: 9rem 18.5rem 11.4rem 0rem;
+  width: 141.15rem;
+  height: calc(100% - 20.4rem);
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .benefits-R8Q .auto-group-a8hz-iWp .all-the-benefits-you-will-get-when-you-add-several-designs-to-you-favorite-cars-dtg {
+  margin-bottom: 0.7rem;
+  width: 100%;
+  max-width: 127.8rem;
+  text-align: center;
+  font-size: 8.6rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .benefits-R8Q .auto-group-a8hz-iWp .cards-Wha {
+  margin-right: 0rem;
+  width: 110rem;
+  height: 49rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .benefits-R8Q .auto-group-a8hz-iWp .cards-Wha .card-f4g {
+  box-sizing: border-box;
+  width: 40rem;
+  height: 49rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 2rem;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .benefits-R8Q .auto-group-a8hz-iWp .cards-Wha .card-f4g .infos-zck {
+  width: 100%;
+  height: 43rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .benefits-R8Q .auto-group-a8hz-iWp .cards-Wha .card-f4g .infos-zck .i3d-map-wnt {
+  margin: 0rem 4rem 2rem 4rem;
+  width: calc(100% - 8rem);
+  height: 26.1rem;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .benefits-R8Q .auto-group-a8hz-iWp .cards-Wha .card-f4g .infos-zck .i3d-map-wnt .asset-32x-1-GaG {
+  width: 28rem;
+  height: 27.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .benefits-R8Q .auto-group-a8hz-iWp .cards-Wha .card-f4g .infos-zck .text-QgU {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .benefits-R8Q .auto-group-a8hz-iWp .cards-Wha .card-f4g .infos-zck .text-QgU .special-designs-Afe {
+  margin-bottom: 1.7rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .benefits-R8Q .auto-group-a8hz-iWp .cards-Wha .card-f4g .infos-zck .text-QgU .you-can-get-special-designs-when-you-use-our-app-regularly-gtt {
+  max-width: 34.1rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .benefits-R8Q .auto-group-a8hz-iWp .cards-Wha .card-LyS {
+  box-sizing: border-box;
+  padding
+  width: 56.3rem;
+  height: 49rem;
+  position: absolute;
+  left: 50rem;
+  top: ;
+  background-color: rgba(207, 41, 41, 0.6000000238);
+  border-radius: 2rem;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .benefits-R8Q .auto-group-a8hz-iWp .cards-Wha .card-LyS .infos-syN {
+  width: 100%;
+  height: 43rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .benefits-R8Q .auto-group-a8hz-iWp .cards-Wha .card-LyS .infos-syN .i3d-calendar-2rG {
+  margin: 0rem 3.95rem 2rem 3.95rem;
+  width: calc(100% - 7.9rem);
+  height: 26.1rem;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .benefits-R8Q .auto-group-a8hz-iWp .cards-Wha .card-LyS .infos-syN .i3d-calendar-2rG .asset-42x-1-xE8 {
+  width: 35rem;
+  height: 25rem;
+  object-fit: ;
+  vertical-align: top;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .benefits-R8Q .auto-group-a8hz-iWp .cards-Wha .card-LyS .infos-syN .text-6bE {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .benefits-R8Q .auto-group-a8hz-iWp .cards-Wha .card-LyS .infos-syN .text-6bE .discounts-Fj2 {
+  margin-bottom: 1.7rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .benefits-R8Q .auto-group-a8hz-iWp .cards-Wha .card-LyS .infos-syN .text-6bE .you-can-get-discounts-on-our-designs-when-you-apply-it-in-our-app-and-visit-us-BMn {
+  max-width: 34rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-nmh6-i52 .benefits-R8Q .asset-22x-2-rD2 {
+  margin-bottom: 5rem;
+  width: 14.5rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ {
+  width: 100%;
+  height: 253.55rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .cars-J52 {
+  width: 256.2rem;
+  height: 78.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .cars-J52 .text-EDa {
+  margin: 0rem 41.4rem 5.7rem -20rem;
+  width: calc(100% - 83.5rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .cars-J52 .text-EDa .the-designs-that-are-hot-right-now-A7E {
+  margin-bottom:.1rem;
+  font-size: 9.6rem;
+  font-weight: 900;
+  line-height: 2.2575;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .cars-J52 .text-EDa .design-yours-and-be-the-most-stylish-in-the-neighborhood-t3E {
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .cars-J52 .cars-CZi {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .cars-J52 .cars-CZi .cars-wnC {
+  margin: 0 30.8rem;
+  width: calc(100% - 0rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .cars-J52 .cars-CZi .cars-wnC .egyptian-hieroglyph-macan-wrap-1-gzg {
+  width: 49rem;
+  height: 27rem;
+  position: relative;
+  background-size: 147.239% 100.236%;
+  background-position: -5.7718rem -0.0318rem;
+  background-image: url('../assets/egyptian-hieroglyph-macan-wrap-1.png');
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .cars-J52 .cars-CZi .cars-wnC .o-1-yD6 {
+  width: 57rem;
+  height: 27rem;
+  position: relative;
+  background-size: 100% 118.75%;
+  background-position: 0 -2.5313rem;
+  background-image: url('../assets/o-1-w6U.png');
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .cars-J52 .cars-CZi .cars-wnC .o-1-5G8 {
+  width: 48rem;
+  height: 27rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .cars-J52 .cars-CZi .cars-wnC .img6965-1-1-cWx {
+  width: 40.6rem;
+  height: 27rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .cars-J52 .cars-CZi .cars-9mn {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .cars-J52 .cars-CZi .cars-9mn .o-1-Jua {
+  width: 48rem;
+  height: 27rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .cars-J52 .cars-CZi .cars-9mn .o-1-FZv {
+  width: 56.6rem;
+  height: 27rem;
+  position: relative;
+  background-size: 100% 117.904%;
+  background-position: 0 0;
+  background-image: url('../assets/o-1-MeC.png');
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .cars-J52 .cars-CZi .cars-9mn .dparc4uxkaapx0x-1-xz8 {
+  width: 60.7rem;
+  height: 27rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .cars-J52 .cars-CZi .cars-9mn .o-1-K3z {
+  width: 40.1rem;
+  height: 27rem;
+  position: relative;
+  background-size: 119.701% 100.018%;
+  background-position: -7.85rem -0.0024rem;
+  background-image: url('../assets/o-1.png');
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .cars-J52 .cars-CZi .cars-9mn .ezgif-1-ozk {
+  width: 50.8rem;
+  height: 27rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .be-amazed-by-the-power-MmN {
+  width: 214.9542rem;
+  height: 138.5rem;
+  position: absolute;
+  left: 0;
+  top: 73.95rem;
+  background-color: #1a191a;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .be-amazed-by-the-power-MmN .frame-16-goe {
+  box-sizing: border-box;
+  padding-left: 10rem;
+  width: 202.1542rem;
+  height: 55.5059rem;
+  position: absolute;
+  left: 0;
+  top: 6.6rem;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .be-amazed-by-the-power-MmN .frame-16-goe .title-pQ4 {
+  width: 100%;
+  height: 27.8rem;
+  display: flex;
+  align-items: center;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .be-amazed-by-the-power-MmN .frame-16-goe .title-pQ4 .be-amazed-by-the-designs-mq6 {
+  margin-right: 47rem;
+  max-width: 82.8rem;
+  font-size: 13rem;
+  font-weight: 900;
+  line-height: 1.0692307692;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .be-amazed-by-the-power-MmN .frame-16-goe .title-pQ4 .speed-alone-is-not-enough-to-make-your-car-reach-its-potential-5qn {
+  margin-top: 2.1rem;
+  max-width: 41.7rem;
+  font-size: 3.2rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .be-amazed-by-the-power-MmN .video-Pba {
+  width: 184.8rem;
+  height: 95.7rem;
+  position: absolute;
+  left: 10rem;
+  top: 42.8rem;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .be-amazed-by-the-power-MmN .video-Pba .sls-1-Xhn {
+  width: 172rem;
+  height: 81.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 {
+  box-sizing: border-box;
+  padding: 1.75rem 10rem;
+  width: 192rem;
+  height: 45.1rem;
+  position: absolute;
+  left: 0;
+  top: 208.45rem;
+  overflow: hidden;
+  background-color: #161616;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ {
+  width: 100%;
+  height: 35rem;
+  display: flex;
+  align-items: center;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .text-9z4 {
+  margin-right: 42.2077rem;
+  width: 66.9rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .text-9z4 .contact-us-hEt {
+  width: 66.9rem;
+  height: 15.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 12rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .text-9z4 .to-find-out-more-information-about-the-designs-and-cars-that-are-eligbile-for-customization-fill-out-the-form-or-contact-us-by-phone-DDE {
+  width: 61.6rem;
+  height: 20rem;
+  position: absolute;
+  left: 0;
+  top: 15rem;
+  font-size: 3.008rem;
+  font-weight: 900;
+  line-height: 1.6622340468;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .form-fqv {
+  margin: 1.4rem 0rem 1.7rem 0rem;
+  width: 62.8923rem;
+  height: calc(100% - 3.1rem);
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .form-fqv .first-ztC {
+  margin: 0rem 0.266rem 3.1rem 0rem;
+  width: calc(100% - 0.2661rem);
+  height: 5rem;
+  display: flex;
+  align-items: center;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .form-fqv .first-ztC .your-name-vmr {
+  margin-right: 2rem;
+  width: 30.3632rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .form-fqv .first-ztC .your-name-vmr .your-name-5ek {
+  width: 10.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 900;
+  line-height: 2.5;
+  color: #f2f2f2;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .form-fqv .first-ztC .your-name-vmr .line-oKr {
+  width: 30.3632rem;
+  height: 0;
+  position: absolute;
+  left: 0;
+  top: 4.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .form-fqv .first-ztC .your-email-kVz {
+  width: 30.263rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .form-fqv .first-ztC .your-email-kVz .your-email-udn {
+  width: 11rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 900;
+  line-height: 2.5;
+  color: #f2f2f2;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .form-fqv .first-ztC .your-email-kVz .line-qXS {
+  width: 30.263rem;
+  height: 0;
+  position: absolute;
+  left: 0;
+  top: 4.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .form-fqv .second-nSg {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .form-fqv .second-nSg .phone-number-9Y8 {
+  margin: 0.05rem 2rem 0rem 0rem;
+  width: 30.3632rem;
+  height: 5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .form-fqv .second-nSg .phone-number-9Y8 .phone-number-UqJ {
+  width: 14.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 900;
+  line-height: 2.5;
+  color: #f2f2f2;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .form-fqv .second-nSg .phone-number-9Y8 .line-Qix {
+  width: 30.3632rem;
+  height: 0;
+  position: absolute;
+  left: 0;
+  top: 4.35rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .form-fqv .second-nSg .country-m3i {
+  margin-bottom: 0.05rem;
+  width: 30.5291rem;
+  height: 5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .form-fqv .second-nSg .country-m3i .country-JZS {
+  width: 9.1rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 900;
+  line-height: 2.5;
+  color: #f2f2f2;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .form-fqv .second-nSg .country-m3i .vector-53-qJU {
+  width: 1.6291rem;
+  height: 0.8129rem;
+  position: absolute;
+  left: 28.9rem;
+  top: 2.0936rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .form-fqv .second-nSg .country-m3i .line-NZJ {
+  width: 30.263rem;
+  height: 0;
+  position: absolute;
+  left: 0;
+  top: 4.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .form-fqv .auto-group-yqig-iNG {
+  box-sizing: border-box;
+  padding-top: 4.35rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .form-fqv .auto-group-yqig-iNG .message-rzG {
+  margin-bottom: 5rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .form-fqv .auto-group-yqig-iNG .message-rzG .message-dEL {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 900;
+  line-height: 2.5;
+  color: #f2f2f2;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .form-fqv .auto-group-yqig-iNG .message-rzG .line-AVA {
+  width: 62.6305rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-N7e .auto-group-uswi-kZJ .contact-us-UN8 .information-ofJ .form-fqv .auto-group-yqig-iNG .buttton-KN4 {
+  width: 16.2rem;
+  height: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-N7e .image-77-MJk {
+  margin-bottom: 6rem;
+  width: 192rem;
+  height: 32.9rem;
+  position: relative;
+  background-size: 115.052% 305.471%;
+  background-position: -0.7802rem -11.3126rem;
+  background-image: url('../assets/image-77.png');
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW {
+  margin: 0rem 8.5rem 0rem 10rem;
+  width: calc(100% - 18.5rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY {
+  margin: 0rem 1.5rem 7.1rem 0rem;
+  width: calc(100% - 1.5rem);
+  height: 24.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY .sphinx-customs-5e4 {
+  max-width: 37rem;
+  font-size: 9.8rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY .auto-group-epfe-bsJ {
+  box-sizing: border-box;
+  padding-left: 18.15rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY .auto-group-epfe-bsJ .where-are-we-8sE {
+  margin-right: 12.65rem;
+  row-gap: 2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY .auto-group-epfe-bsJ .where-are-we-8sE .where-are-we-GiY {
+  font-size: 3.5rem;
+  font-weight: 900;
+  line-height: 0.9142857143;
+  letter-spacing: -0.0665rem;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY .auto-group-epfe-bsJ .where-are-we-8sE .about-us-nwn {
+  font-size: 1.7rem;
+  font-weight: 900;
+  line-height: 0.6470588235;
+  color: #bdbdbd;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY .auto-group-epfe-bsJ .where-are-we-8sE .our-services-XuN {
+  font-size: 1.7rem;
+  font-weight: 900;
+  line-height: 0.6470588235;
+  color: #bdbdbd;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY .auto-group-epfe-bsJ .where-are-we-8sE .contact-us-fkg {
+  font-size: 1.7rem;
+  font-weight: 900;
+  line-height: 0.6470588235;
+  color: #bdbdbd;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY .auto-group-epfe-bsJ .quick-links-cA8 {
+  margin-right: 12.05rem;
+  row-gap: 2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY .auto-group-epfe-bsJ .quick-links-cA8 .quick-links-Lrp {
+  font-size: 3.5rem;
+  font-weight: 900;
+  line-height: 0.9142857143;
+  letter-spacing: -0.0665rem;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY .auto-group-epfe-bsJ .quick-links-cA8 .about-us-5Jc {
+  font-size: 1.7rem;
+  font-weight: 900;
+  line-height: 0.6470588235;
+  color: #bdbdbd;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY .auto-group-epfe-bsJ .quick-links-cA8 .our-services-EBW {
+  font-size: 1.7rem;
+  font-weight: 900;
+  line-height: 0.6470588235;
+  color: #bdbdbd;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY .auto-group-epfe-bsJ .quick-links-cA8 .contact-us-BcY {
+  font-size: 1.7rem;
+  font-weight: 900;
+  line-height: 0.6470588235;
+  color: #bdbdbd;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY .auto-group-epfe-bsJ .email-us-j8G {
+  margin-right: 11.75rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY .auto-group-epfe-bsJ .email-us-j8G .email-us-t1A {
+  margin-bottom: 2rem;
+  font-size: 3.5rem;
+  font-weight: 900;
+  line-height: 0.9142857143;
+  letter-spacing: -0.0665rem;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY .auto-group-epfe-bsJ .email-us-j8G .contactprimecarcom-1ba {
+  font-size: 1.7rem;
+  font-weight: 900;
+  line-height: 0.6470588235;
+  color: #bdbdbd;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY .auto-group-epfe-bsJ .call-us-kZA {
+  width: 12.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY .auto-group-epfe-bsJ .call-us-kZA .auto-group-xmyn-7Pi {
+  box-sizing: border-box;
+  padding-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY .auto-group-epfe-bsJ .call-us-kZA .auto-group-xmyn-7Pi .call-us-TyN {
+  margin-bottom: 2rem;
+  font-size: 3.5rem;
+  font-weight: 900;
+  line-height: 0.9142857143;
+  letter-spacing: -0.0665rem;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY .auto-group-epfe-bsJ .call-us-kZA .auto-group-xmyn-7Pi .item-999-9-999-9999-111-11-111-1111-ziQ {
+  font-size: 1.7rem;
+  font-weight: 900;
+  line-height: 0.6470588235;
+  color: #bdbdbd;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY .auto-group-epfe-bsJ .call-us-kZA .social-media-hsi {
+  box-sizing: border-box;
+  padding: 0.4rem 0.436rem 0.413rem 0.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY .auto-group-epfe-bsJ .call-us-kZA .social-media-hsi .facebook-pxL {
+  margin-right: 2.3667rem;
+  width: 2.4rem;
+  height: 2.3867rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY .auto-group-epfe-bsJ .call-us-kZA .social-media-hsi .linkedin-m6t {
+  margin: 0.013rem 2.403rem 0rem 0rem;
+  width: 2.2667rem;
+  height: 2.2667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-15-xJY .auto-group-epfe-bsJ .call-us-kZA .social-media-hsi .instagram-5tG {
+  margin-top: 0.0133rem;
+  width: 2.3272rem;
+  height: 2.3273rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-14-QQk {
+  width: 100%;
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-14-QQk .frame-13-ZYY {
+  margin-right: 111.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-14-QQk .frame-13-ZYY .privacy-policy-usJ {
+  margin-right: 2.7rem;
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 2.1333333333;
+  letter-spacing: -0.0285rem;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-14-QQk .frame-13-ZYY .term-and-conditions-dYQ {
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 2.1333333333;
+  letter-spacing: -0.0285rem;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-N7e .footer-rFW .frame-14-QQk .copyright-2022-flick-tech-all-rights-reserved-MjJ {
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 2.1333333333;
+  letter-spacing: -0.0285rem;
+  color: #ffffff;
+  font-family: StratumNo1, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
